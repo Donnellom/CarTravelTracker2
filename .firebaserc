@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "car-travel-tracker-2"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": "postgresql://localhost:5432?sslmode=disable"
+    }
+  }
+}
